@@ -3,6 +3,7 @@
     <pages>
         <page name='动态规划'/>
         <page name='回溯'/>
+        <page name='链表'/>
         <page name='基本算法'/>
     </pages>
 </playground>
